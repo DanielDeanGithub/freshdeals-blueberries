@@ -1,3 +1,7 @@
+.breadcrumb {
+    margin: 12px auto;
+}
+
 .breadcrumb li {
     display: inline;
 }
