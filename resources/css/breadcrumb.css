@@ -5,3 +5,7 @@
 .breadcrumb li+li::before {
     content: "> ";
 }
+
+.breadcrumb a:hover {
+    color: hsla(88, 100%, 25%, 1);
+}
