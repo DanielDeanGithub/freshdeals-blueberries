@@ -10,9 +10,13 @@
     color: hsla(88, 100%, 25%, 1);
 }
 
+.breadcrumb li.attribute {
+    color: hsla(0, 0%, 50%, 75%);
+}
+
 .breadcrumb li.attribute::after {
     content: " x";
-    color: red;
+    color: hsl(0, 100%, 50%);
     font-size: 12px;
     vertical-align: super;
 }
