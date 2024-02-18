@@ -1,8 +1,8 @@
+#### Objective provided by Codecademy
+
 ### WEB DEVELOPMENT FOUNDATIONS
 
 # FreshDeals: Blueberries
-
-#### Objective provided by Codecademy:
 
 In the browser to the right, you should see a site for buying groceries. The currently selected product is “Organic Blueberries”. If you landed on this page, you may have some questions.
 
